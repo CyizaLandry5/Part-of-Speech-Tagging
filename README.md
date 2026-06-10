@@ -1,4 +1,4 @@
-# 🧠 Assignment 2: Parts-of-Speech Tagging with Hidden Markov Models
+# 🧠Parts-of-Speech Tagging with Hidden Markov Models
 
 **Course:** Natural Language Processing Specialization (Course 2)  
 **Topics:** POS Tagging, Hidden Markov Models (HMM), Viterbi Algorithm
